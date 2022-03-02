@@ -9,7 +9,12 @@ ls -an: Display current directory contents:
 - And hidden files (starting with .)
 
 mkdir /tmp/my_first_directory: creates my_first_directory in tmp directory
+
 rm /tmp/my_first_directory/betty: removes betty file
+
 rmdir /tmp/my_first_directory: deletes my_first_directory
 10-back: changes to the previous working directory
-ls -a -l . .. /boot:  lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long forma
+
+ls -a -l . .. /boot:  lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
+
+file /tmp/iamafile : prints the type of iamafile
