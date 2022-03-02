@@ -9,3 +9,4 @@ ls -an: Display current directory contents:
 - And hidden files (starting with .)
 
 mkdir /tmp/my_first_directory: creates my_first_directory in tmp directory
+rm /tmp/my_first_directory/betty: removes betty file
