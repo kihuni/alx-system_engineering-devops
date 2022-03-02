@@ -11,3 +11,4 @@ ls -an: Display current directory contents:
 mkdir /tmp/my_first_directory: creates my_first_directory in tmp directory
 rm /tmp/my_first_directory/betty: removes betty file
 rmdir /tmp/my_first_directory: deletes my_first_directory
+10-back: changes to the previous working directory
