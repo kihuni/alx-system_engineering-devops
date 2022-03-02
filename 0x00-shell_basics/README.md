@@ -7,3 +7,5 @@ ls -an: Display current directory contents:
 - Long format
 - with user and group IDs displayed numerically
 - And hidden files (starting with .)
+
+mkdir /tmp/my_first_directory: creates my_first_directory in tmp directory
