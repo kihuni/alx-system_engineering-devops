@@ -1,1 +1,3 @@
-pdw
+#!/bin/bash 
+pwd $'/n'
+
