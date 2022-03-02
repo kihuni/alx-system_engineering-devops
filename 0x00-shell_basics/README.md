@@ -20,3 +20,5 @@ ls -a -l . .. /boot:  lists all files (even ones with names beginning with a per
 file /tmp/iamafile : prints the type of iamafile
 
 ln -s /bin/ls __ls__: Create a symbolic link to /bin/ls, named __ls__. on the current working directory
+
+cp -u *.html ..: copies html items from current working directory to parent of the current working directory
