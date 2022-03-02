@@ -1,1 +1,1 @@
-This is a bash project
+pwd: prints the working directory
