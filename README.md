@@ -1,1 +1,1 @@
-This is a bash project
+"su betty: changes the current folder to betty  folder"
