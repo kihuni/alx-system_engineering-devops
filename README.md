@@ -1,1 +1,3 @@
-"su betty: changes the current folder to betty  folder"
+# Alx Projects
+
+familiarizing myself with different types of shell programs
