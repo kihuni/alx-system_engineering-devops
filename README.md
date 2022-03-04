@@ -1,3 +1,3 @@
 # Alx Projects
 
-familiarizing myself with different types of shell programs
+Familiarizing myself with different types of shell programs
