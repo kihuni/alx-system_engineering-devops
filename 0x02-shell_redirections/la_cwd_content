@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 kihuni kihuni 4096 Bit  7 23:53 .
+drwxrwxr-x 6 kihuni kihuni 4096 Bit  7 20:04 ..
+-rwxrwxr-x 1 kihuni kihuni   30 Bit  7 21:20 0-hello_world
+-rwxrw-r-- 1 kihuni kihuni   28 Bit  7 21:32 1-confused_smiley
+-rwxrw-r-- 1 kihuni kihuni   28 Bit  7 21:42 2-hellofile
+-rwxrw-r-- 1 kihuni kihuni   39 Bit  7 21:59 3-twofiles
+-rwxrw-r-- 1 kihuni kihuni   29 Bit  7 22:08 4-lastlines
+-rwxrw-r-- 1 kihuni kihuni   29 Bit  7 22:59 5-firstlines
+-rwxrw-r-- 1 kihuni kihuni   37 Bit  7 23:09 6-third_line
+-rwxrw-r-- 1 kihuni kihuni   78 Bit  7 23:16 7-file
+-rwxrw-r-- 1 kihuni kihuni   36 Bit  7 23:52 8-cwd_state
+-rw-rw-r-- 1 kihuni kihuni   12 Bit  7 23:16 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 kihuni kihuni    0 Bit  7 23:53 la_cwd_content
+-rw-rw-r-- 1 kihuni kihuni   20 Bit  7 20:04 README.md
