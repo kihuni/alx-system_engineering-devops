@@ -1,11 +1,5 @@
-include stdlib
-file_line {'change private key':
-  ensure => present,
-  path   => '/etc/ssh/ssh_config',
-  line   => 'IdentityFile ~/.ssh/school'
-}
-file_line {'no password':
-  ensure => present,
-  path   => '/etc/ssh/ssh_config',
-  line   => 'PasswordAuthentication no',
-}
+Host web-01
+	Hostname 3.230.143.201
+	User ubuntu
+	PasswordAuthentication no
+	IdentityFile ~/.ssh/school
